@@ -1,0 +1,4 @@
+Person{id=0, name='yaser', family='jamali', nationalId='10'}
+Person{id=1, name='hosin', family='tali', nationalId='25'}
+Person{id=2, name='reza', family='jamali', nationalId='98'}
+Person{id=0, name='dasdsa', family='dasdad', nationalId='dasdsad'}
